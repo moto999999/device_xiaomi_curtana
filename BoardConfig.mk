@@ -17,6 +17,3 @@ TARGET_BOOTLOADER_BOARD_NAME := curtana
 
 # Display
 TARGET_SCREEN_DENSITY := 440
-
-# Kernel
-TARGET_KERNEL_CONFIG := vendor/atoll-perf_defconfig
