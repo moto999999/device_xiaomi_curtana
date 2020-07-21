@@ -5,9 +5,9 @@
 #
 
 $(call inherit-product, device/xiaomi/curtana/device.mk)
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/aosip/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_curtana
+PRODUCT_NAME := aosip_curtana
 PRODUCT_DEVICE := curtana
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 9S
